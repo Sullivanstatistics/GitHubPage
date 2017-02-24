@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Try on Adam J Sullivan, PhD</title>
-    <link>/tags/try/index.xml</link>
+    <link>https://www.sullivanstatistics.com/tags/try/index.xml</link>
     <description>Recent content in Try on Adam J Sullivan, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Testing this out</title>
-      <link>/post/testing-this-out/</link>
+      <link>https://www.sullivanstatistics.com/post/testing-this-out/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/testing-this-out/</guid>
+      <guid>https://www.sullivanstatistics.com/post/testing-this-out/</guid>
       <description>&lt;!-- BLOGDOWN-HEAD --&gt;
 
 

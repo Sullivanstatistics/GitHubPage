@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://www.sullivanstatistics.com/"
 title = "Adam J Sullivan, PhD"
 copyright = "&copy; 2016 Your Name"
 theme = "hugo-academic"
