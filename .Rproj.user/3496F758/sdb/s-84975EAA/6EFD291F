@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ncategories: [\"projects\"]\ndate: \"2016-10-02T22:55:05-04:00\"\ntags: [\"projects\"]\ntitle: \"Projects\"\nshowpagemeta: false\n---\n",
+    "created" : 1487861577833.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3052569248",
+    "id" : "6EFD291F",
+    "lastKnownWriteTime" : 1487791450,
+    "last_content_update" : 1487791450,
+    "path" : "C:/Users/adam_/Dropbox/Brown/PHP2560/GithubPage/themes/sustain/exampleSite/content/projects.md",
+    "project_path" : "themes/sustain/exampleSite/content/projects.md",
+    "properties" : {
+    },
+    "relative_order" : 20,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

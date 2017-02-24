@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "baseurl = \"/\"\nrelativeurls = true\nlanguageCode = \"en-us\"\ntitle = \"Lithium Theme\"\ntheme = \"hugo-academic\"\ngoogleAnalytics = \"\"\ndisqusShortname = \"\"\nignoreFiles = [\"\\\\.Rmd$\", \"_files$\", \"_cache$\"]\n\n[permalinks]\n    post = \"/:year/:month/:day/:slug/\"\n\n[[menu.main]]\n    name = \"Posts\"\n    url = \"/post/\"\n[[menu.main]]\n    name = \"About\"\n    url = \"/about/\"\n[[menu.main]]\n    name = \"GitHub\"\n    url = \"https://github.com/php2560\"\n[[menu.main]]\n    name = \"Twitter\"\n    url = \"https://twitter.com/sullivanstats\"\n\n[params]\n    description = \"Just Testing this out!\"\n\n    # options for highlight.js (version, additional languages, and theme)\n    highlightjsVersion = \"9.9.0\"\n    highlightjsLang = [\"r\", \"yaml\"]\n    highlightjsTheme = \"github\"\n\n    [params.logo]\n    url = \"/public/images/icon.png\"\n    width = 50\n    height = 50\n    alt = \"Logo\"\n\n",
+    "created" : 1487803327908.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "184942029",
+    "id" : "379BDE54",
+    "lastKnownWriteTime" : 7017208690230951938,
+    "last_content_update" : 1487803338364,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

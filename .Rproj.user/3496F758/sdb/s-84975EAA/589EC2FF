@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name = \"Academic\"\nlicense = \"MIT\"\nlicenselink = \"https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md\"\ndescription = \"Easily create beautifully simple academic or personal sites\"\nhomepage = \"https://github.com/gcushen/hugo-academic\"\nmin_version = 0.18\ntags = [\"academic\",\n        \"portfolio\",\n        \"responsive\",\n        \"student\",\n        \"personal\",\n        \"university\",\n        \"blog\",\n        \"minimal\"\n        ]\nfeatures = [\"academic profile\",\n            \"research publication system\",\n            \"projects\",\n            \"blog\",\n            \"teaching\",\n            \"contact\"\n            ]\n\n[author]\n  name = \"George Cushen\"\n  homepage = \"https://georgecushen.com\"\n\n# If porting an existing theme\n[original]\n  name = \"\"\n  homepage = \"\"\n  repo = \"\"\n",
+    "created" : 1487801656666.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1221271128",
+    "id" : "589EC2FF",
+    "lastKnownWriteTime" : 1487791135,
+    "last_content_update" : 1487791135,
+    "path" : "C:/Users/adam_/Dropbox/Brown/PHP2560/GithubPage/themes/hugo-academic/theme.toml",
+    "project_path" : "themes/hugo-academic/theme.toml",
+    "properties" : {
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
