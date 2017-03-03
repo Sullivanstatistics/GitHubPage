@@ -26,12 +26,10 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Stats Education"
+  tag = ".stats-education"
 
-[[filter]]
-  name = "Other"
-  tag = ".demo"
+
 
 +++
 
