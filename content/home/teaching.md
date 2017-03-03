@@ -19,5 +19,5 @@ I teach the following courses at Brown University:
 
 - PHP 2511: Applied Regression Analysis
 - PHP 2515: Fundamentals of Probability and Statistics
-- PHP 2560: Statistical Programming in R
+- [PHP 2560: Statistical Programming in R](http://php2560.com/)
 
