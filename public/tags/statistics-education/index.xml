@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics Education on Adam J Sullivan, PhD</title>
-    <link>/tags/statistics-education/index.xml</link>
+    <link>https://www.sullivanstatistics.com/tags/statistics-education/index.xml</link>
     <description>Recent content in Statistics Education on Adam J Sullivan, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Statistics Education</title>
-      <link>/project/stats-education/</link>
+      <link>https://www.sullivanstatistics.com/project/stats-education/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/stats-education/</guid>
+      <guid>https://www.sullivanstatistics.com/project/stats-education/</guid>
       <description></description>
     </item>
     
